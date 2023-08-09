@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Gopal Dixit</h1>
 <h3 align="center">A passionate Frontend & Software developer from India</h3>
-<img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding">
+<img align="center" width="1000px" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopaldixit&label=Profile%20views&color=0e75b6&style=flat" alt="gopaldixit" /> </p>
 
