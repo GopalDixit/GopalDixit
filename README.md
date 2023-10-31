@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gopal Dixit</h1>
-<h3 align="center">A passionate Frontend & Software developer from India</h3>
+<h3 align="center">A passionate Fullstack & Software developer from India</h3>
 <img align="center" width="1000px" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopaldixit&label=Profile%20views&color=0e75b6&style=flat" alt="gopaldixit" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Full Stack**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently working on **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://comforting-dolphin-d15a1c.netlify.app/](https://comforting-dolphin-d15a1c.netlify.app/)
 
