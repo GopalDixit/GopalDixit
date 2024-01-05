@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **MERN,C++,Data Structure & Algorithms**
 
-- 📫 How to reach me **gopaldixit9450@gmail.com**
+- 📫 How to reach me **gopaldixit011@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zwudS02U0lmJrAQR-Ow532zjYnsRloNp/view?usp=drive_link](https://drive.google.com/file/d/1zwudS02U0lmJrAQR-Ow532zjYnsRloNp/view?usp=drive_link)
 
